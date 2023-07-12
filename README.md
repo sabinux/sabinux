@@ -7,6 +7,6 @@
 </div>
 
 <div id="badges" align="center">
-<a href"https://www.linkedin.com/in/alejandro-garcia-6179b9260/" target="_blanc">
+<a href"https://www.linkedin.com/in/alejandro-garcia-6179b9260/" >
 <img src = "https://img.shields.io/badge/Conect-me?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-garcia-6179b9260%2F" 
   alt="Linkedin badget"/>
