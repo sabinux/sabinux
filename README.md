@@ -8,6 +8,5 @@
 
 <div id="badges" align="center">
 <a href"https://www.linkedin.com/in/alejandro-garcia-6179b9260/" target="_blanc">
-<img src= 
-  "https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv"
-/>
+<img src = "https://img.shields.io/badge/Conect-me?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-garcia-6179b9260%2F" 
+  alt="Linkedin badget"/>
