@@ -1,5 +1,5 @@
 <div id="header"align="center">
-  https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif
+  
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="340"/>
    <h1 align="center"> Hi, I´m Alejandro👋</h1>
   <h2 align="center"> A passionate full stack developer from Colombia </h2>
