@@ -11,8 +11,5 @@
 <img src = "https://img.shields.io/badge/Conect-me?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-garcia-6179b9260%2F" 
   alt="Linkedin badget"/>
 
-<a href "https://mail.google.com/mail/u/0/#inbox">
-<img src = "https://img.shields.io/badge/Send-me?style=for-the-badge&logo=Gmail&color=white&link=privalejo245%40gmail.com" 
-  alt="gmail badget"/>
+
   
-https://img.shields.io/badge/Send-me?style=for-the-badge&logo=Gmail&color=white&link=privalejo245%40gmail.com
